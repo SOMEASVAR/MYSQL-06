@@ -57,5 +57,8 @@ except
 select name from Authors
 order by name
 ```
+# Output:
+![image](https://github.com/SOMEASVAR/MYSQL-06/assets/93434149/e9e039e8-2a3d-4a4b-916a-2a82821ac58d)
+
 # Result:
 Therefore we have successfully performed SET OPERATIONS.
