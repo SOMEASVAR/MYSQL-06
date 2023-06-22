@@ -25,14 +25,14 @@ CREATE TABLE Authors
 (
   Name VARCHAR(25),
 );
-INSERT INTO Speakers VALUES ('Sachin')
-INSERT INTO Speakers VALUES ('Rahul')
-INSERT INTO Speakers VALUES ('Kamplesh')
+INSERT INTO Speakers VALUES ('Anthony Molinaro')
+INSERT INTO Speakers VALUES ('Alan Beaulieu')
+INSERT INTO Speakers VALUES ('Donald Knuth')
 INSERT INTO Speakers VALUES ('Chirag')
 
-INSERT INTO Authors VALUES ('Sachin')
-INSERT INTO Authors VALUES ('Rahul')
-INSERT INTO Authors VALUES ('Pratik')
+INSERT INTO Authors VALUES ('Anthony Molinaro')
+INSERT INTO Authors VALUES ('Alan Beaulieu')
+INSERT INTO Authors VALUES ('Donald Knuth')
 INSERT INTO Authors VALUES ('Rajesh')
 INSERT INTO Authors VALUES ('Anil')
 
@@ -58,7 +58,8 @@ select name from Authors
 order by name
 ```
 # Output:
-![image](https://github.com/SOMEASVAR/MYSQL-06/assets/93434149/e9e039e8-2a3d-4a4b-916a-2a82821ac58d)
+![image](https://github.com/SOMEASVAR/MYSQL-06/assets/93434149/b1c81058-2115-4045-865d-c2d3b14ffff5)
+
 
 # Result:
 Therefore we have successfully performed SET OPERATIONS.
